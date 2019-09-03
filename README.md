@@ -1,3 +1,3 @@
 Simple 2D pong game using SFML.
 
-![](ss.png)
+<img src="ss.png" width = "400">
